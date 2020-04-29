@@ -34,4 +34,4 @@ npm start:app
 npm start:ui
 ```
 
-![storybook](https://raw.githubusercontent.com/stepankuzmin/storybook-monorepo/master/create-react-app.png)
+![storybook](https://raw.githubusercontent.com/stepankuzmin/create-react-app-monorepo/master/storybook.png)
